@@ -52,7 +52,7 @@ Most AI tools fail not because of the technology, but because they're built with
 
 ## 🎓 Education
 
-- **AI Consulting Bootcamp** — Ironhack, Berlin (Apr 2025 – ongoing)
+- **AI Consulting Bootcamp** — Ironhack, Berlin (Apr 2026 – ongoing)
 - **Data Analytics Bootcamp** — Spiced Academy by Neue Fische, Berlin (2025)
 - **PhD in Economics** — Plekhanov Russian University of Economics (2015–2020)
 - **MBA in International Management, Distinction** — ESCP Europe, Turin–Berlin–Paris (2017–2018)

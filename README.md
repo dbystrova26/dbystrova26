@@ -1,3 +1,4 @@
+![GitHub Profile Banner](images/github_profile_banner.png)
 # Hi, I'm Daria 👋
 
 Strategy & Analytics Professional → AI Consulting | Frankfurt 🇩🇪

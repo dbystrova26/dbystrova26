@@ -28,6 +28,7 @@ Most AI tools fail not because of the technology, but because they're built with
 |---|---|---|
 | **A&R Artist Intelligence Agent** | Autonomous artist research & signing recommendation system for independent digital music distribution. Pulls data from Spotify, Last.fm, YouTube, NewsAPI and a Pinecone roster database — scores artists 0–100 and returns SIGN / WATCH / PASS with a full 9-section report. Sends Slack alerts and logs all decisions to Google Sheets via n8n. | [Link](https://github.com/dbystrova26/artist-research-signing-recommendation-agent) |
 | **Artist & Industry Intelligence Report Generator** | AI-powered monthly market intelligence report engine for the world's largest independent music distributor. Input period and markets → get a structured internal report covering streaming trends, platform updates, competitor moves, and opportunities for DE, UK, and FR — grounded in a curated knowledge base. | [Link](https://github.com/dbystrova26/artist-and-industry-intelligence-ai-agent) |
+| **AI Podcast Studio** | Automated podcast generator — turn any PDF, URL, or text into a two-speaker MP3 podcast in under 60 seconds. Powered by GPT-4o for script generation and OpenAI TTS for audio, with a Gradio interface. | [Link](https://github.com/dbystrova26/ai-podcast-generation) |
 
 ### Data Analytics
 
@@ -39,9 +40,9 @@ Most AI tools fail not because of the technology, but because they're built with
 
 ## 🧰 Tools and technologies
 
-**AI & agents:** `LangChain` `LangGraph` `Claude API` `OpenAI API` `Pinecone` `RAG` `n8n`  
-**APIs & integrations:** `Spotify` `Last.fm` `NewsAPI` `YouTube Data API` `FastAPI` `Slack`  
-**Data & analytics:** `Python` `SQL` `Tableau` `Pandas` `Jupyter`  
+**AI & agents:** `LangChain` `LangGraph` `OpenAI` `Claude` `Pinecone` `Embeddings` `RAG`  
+**Deployment & automation:** `FastAPI` `Gradio` `n8n` `Render`  
+**Data & analytics:** `Python` `SQL` `PostgreSQL` `Tableau` `Pandas` `NumPy` `Scikit-learn` `Seaborn` `Matplotlib` `SQLAlchemy` `dbt` `DBeaver` `Lifetimes` `Jupyter` `Git`  
 **Finance & strategy tools:** `Advanced Excel` `Bloomberg Terminal` `Capital IQ` `Pitchbook`  
 **Languages:** Russian (native) · English (full professional) · German (C2)
 

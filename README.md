@@ -30,6 +30,7 @@ Most AI tools fail not because of the technology, but because they're built with
 | **Artist & Industry Intelligence Report Generator** | AI-powered monthly market intelligence report engine for the world's largest independent music distributor. Input period and markets → get a structured internal report covering streaming trends, platform updates, competitor moves, and opportunities for DE, UK, and FR — grounded in a curated knowledge base. | [Link](https://github.com/dbystrova26/artist-and-industry-intelligence-ai-agent) |
 | **AI Podcast Studio** | Automated podcast generator — turn any PDF, URL, or text into a two-speaker MP3 podcast in under 60 seconds. Powered by GPT-4o for script generation and OpenAI TTS for audio, with a Gradio interface. | [Link](https://github.com/dbystrova26/ai-podcast-generation) |
 | **MeetingMind** | AI-powered meeting transcription system using OpenAI Whisper. Converts audio to text with timestamps, chunking for long recordings, and export to text, JSON, and SRT formats. Compares prompted vs unprompted transcription approaches. | [Link](https://github.com/dbystrova26/Ironhack_Day5) |
+| **DocInsight** | AI-powered document Q&A via RAG pipeline. Ask questions across multiple files simultaneously — PDFs, transcripts, reports — and get answers grounded exclusively in your knowledge base. Built with OpenAI embeddings and GPT-4o. | [Link](https://github.com/dbystrova26/DocInsight-AI-Powered-Document-QA-via-RAG-Pipeline) |
 
 ### Data Analytics
 
